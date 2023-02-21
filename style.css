@@ -379,23 +379,16 @@ span{
     display: flex;
     align-items: center;
 }
-/* .points{ */
-    /* display: flex;
-    width: 100%;
-    border-radius: 10px;
-/* } */
-/* .points ul{
-    margin-left: 0PX;
-    margin-top: 30px;
-    padding-right: 30px;
-    
-} */
 
-/* .points li h3{
-    font-size: 20px;
-    line-height: 50px;
-    font-family: sans-serif;
-} */
+    
+
+
+
+
+
+ 
+
+
 
 /* service Section */
 
@@ -689,22 +682,10 @@ form h3{
 
 @media(max-width:767px){
 
-    /* navbar */
+    
 
    
-    .container .menu .toggle{
-        display: block;
-    }
-    .container .menu-li.active{
-        display: block;
-        position: absolute;
-        right: 0;top: 80;
-        flex-direction: column;
-        margin-top: 30px;
-    }
-    .logo{
-        font-size:20px;
-    }
+
     /* home section */
      #Home{
         width: 100%;
